@@ -1,0 +1,1 @@
+<a class="link" href="{{ url('/') }}/search"><img class="icon" src="{{ url('/') }}/si-glyph-magnifier.svg"/> search a user</a>

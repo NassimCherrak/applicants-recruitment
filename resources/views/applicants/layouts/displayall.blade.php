@@ -1,0 +1,1 @@
+<a class="link col-md-6" href="{{ url('/') }}/displayall"><img class="icon" src="{{ url('/') }}/si-glyph-document-bullet-list.svg"/> display all users</a>
